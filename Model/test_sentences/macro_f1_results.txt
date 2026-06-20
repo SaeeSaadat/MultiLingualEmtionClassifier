@@ -1,0 +1,36 @@
+Labels: ['anger', 'fear', 'joy', 'sadness', 'surprise']
+Sentences per language: 50
+
+=== English (eng) ===
+Macro F1 : 0.6588
+Per-label F1:
+  anger     : 0.6957
+  fear      : 0.5455
+  joy       : 0.8205
+  sadness   : 0.7879
+  surprise  : 0.4444
+
+[warn] 'spa' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
+=== Spanish (spa) ===
+Macro F1 : 0.2985
+Per-label F1:
+  anger     : 0.5000
+  fear      : 0.3913
+  joy       : 0.0526
+  sadness   : 0.4375
+  surprise  : 0.1111
+
+[warn] 'fas' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
+=== Persian (fas) ===
+Macro F1 : 0.3019
+Per-label F1:
+  anger     : 0.4848
+  fear      : 0.3600
+  joy       : 0.0000
+  sadness   : 0.4375
+  surprise  : 0.2273
+
+=== Summary ===
+  English   : 0.6588
+  Spanish   : 0.2985
+  Persian   : 0.3019

@@ -1,0 +1,201 @@
+
+Text  [eng]: من واقعاً از این وضعیت خسته شده‌ام.
+Emotions: sadness, anger, fear
+Scores  : sadness=0.81  anger=0.78  fear=0.62  joy=0.17  surprise=0.07
+
+Text  [eng]: خیلی خوشحالم می‌خوام بپرم هوا
+Emotions: joy
+Scores  : joy=0.95  fear=0.20  surprise=0.20  sadness=0.19  anger=0.08
+
+Text  [eng]: حالم از همه چی بهم می‌خوره.
+Emotions: sadness, fear
+Scores  : sadness=0.88  fear=0.82  anger=0.22  joy=0.11  surprise=0.08
+
+Text  [eng]: دارم از شدت غم و غصه میمیرم
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.54  joy=0.22  anger=0.21  surprise=0.14
+
+Text  [eng]: عاشفتم دست خودم نیست این حالو دوست دارم
+Emotions: joy
+Scores  : joy=0.95  sadness=0.37  fear=0.29  anger=0.07  surprise=0.07
+
+Text  [eng]: دوستت دارم
+Emotions: joy
+Scores  : joy=0.89  fear=0.23  sadness=0.18  anger=0.13  surprise=0.06
+
+Text  [eng]: حالم خیلی داغونه
+Emotions: fear, sadness
+Scores  : fear=0.90  sadness=0.64  anger=0.27  joy=0.10  surprise=0.07
+
+Text  [eng]: می‌خوام بگیرم جرت بدم مرتیکه!
+Emotions: anger, fear
+Scores  : anger=0.59  fear=0.54  surprise=0.51  joy=0.43  sadness=0.11
+
+Text  [eng]: جوری میزنم صدا سگ بدی
+Emotions: (none above threshold)
+Scores  : anger=0.55  sadness=0.35  fear=0.34  joy=0.23  surprise=0.21
+
+Text  [eng]: حالم خوبه همه چی عالیه
+Emotions: joy
+Scores  : joy=0.93  sadness=0.31  fear=0.24  surprise=0.12  anger=0.09
+
+Text  [eng]: نمیخوام کسی رو ببینم حالم خوب نیست
+Emotions: sadness, fear
+Scores  : sadness=0.84  fear=0.80  joy=0.22  anger=0.10  surprise=0.08
+
+Text  [eng]: چه خبر خوبی! می‌خوام بال دربیارم!
+Emotions: joy
+Scores  : joy=0.95  surprise=0.28  fear=0.26  anger=0.08  sadness=0.06
+
+Text  [eng]: خیلی گشنمه می‌خوام یه اسب رو بخورم
+Emotions: sadness, fear
+Scores  : sadness=0.90  fear=0.86  anger=0.48  surprise=0.28  joy=0.12
+
+Text  [eng]: حسودیم میشه به دوستم
+Emotions: joy, sadness
+Scores  : joy=0.68  sadness=0.55  anger=0.19  fear=0.19  surprise=0.06
+
+Text  [eng]: راضیم ازت واقعا باریکلا
+Emotions: joy
+Scores  : joy=0.96  fear=0.14  sadness=0.12  surprise=0.11  anger=0.09
+
+Text  [eng]: خدا رحمتشون کنه
+Emotions: sadness, joy, fear
+Scores  : sadness=0.63  joy=0.61  fear=0.52  anger=0.23  surprise=0.19
+
+Text  [eng]: غم آخرتون باشه
+Emotions: sadness, fear
+Scores  : sadness=0.91  fear=0.60  joy=0.37  surprise=0.34  anger=0.23
+
+Text  [eng]: غصه نخور بابا درست میشه
+Emotions: joy
+Scores  : joy=0.74  fear=0.42  sadness=0.18  anger=0.14  surprise=0.13
+
+Text  [eng]: آخ جون راکت جدیدم اومد
+Emotions: joy, surprise
+Scores  : joy=0.92  surprise=0.80  fear=0.25  sadness=0.19  anger=0.16
+
+Text  [eng]: هورااااااااا بالاخره تموم شد!
+Emotions: joy, surprise
+Scores  : joy=0.94  surprise=0.67  fear=0.35  anger=0.17  sadness=0.14
+
+Text  [eng]: چه تسک مسخره‌ایه این آخه؟ ولم کنید بابا!
+Emotions: surprise, anger, fear
+Scores  : surprise=0.66  anger=0.59  fear=0.57  joy=0.16  sadness=0.09
+
+Text  [eng]: ایده هام تموم شدن
+Emotions: joy, sadness
+Scores  : joy=0.65  sadness=0.59  fear=0.28  anger=0.17  surprise=0.09
+
+Text  [eng]: می‌خوام از خوشحالی بمیرم
+Emotions: joy
+Scores  : joy=0.97  fear=0.20  sadness=0.16  surprise=0.16  anger=0.11
+
+Text  [eng]: می‌خوام از غصه بمیرم
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.49  anger=0.41  joy=0.30  surprise=0.14
+
+Text  [eng]: دارم از گشنگی میمیرم
+Emotions: sadness, fear
+Scores  : sadness=0.92  fear=0.63  joy=0.22  anger=0.19  surprise=0.13
+
+Text  [eng]: من خیلی جدی ام
+Emotions: fear
+Scores  : fear=0.57  joy=0.57  surprise=0.47  anger=0.26  sadness=0.08
+
+Text  [eng]: من خیلی سریع ام! هاها
+Emotions: joy
+Scores  : joy=0.75  surprise=0.49  fear=0.35  anger=0.19  sadness=0.05
+
+Text  [eng]: من زیادی سریع و زیادی خشمگینم
+Emotions: anger, sadness
+Scores  : anger=0.79  sadness=0.43  fear=0.36  joy=0.28  surprise=0.06
+
+Text  [eng]: دادم بدترین جمله ها رو برای این تسک انتخاب میکنم.
+Emotions: anger, joy
+Scores  : anger=0.67  joy=0.58  surprise=0.42  fear=0.27  sadness=0.23
+
+Text  [eng]: من از ارتفاع می‌ترسم
+Emotions: fear, sadness
+Scores  : fear=0.81  sadness=0.43  joy=0.19  surprise=0.12  anger=0.10
+
+Text  [eng]: من از حرف زدن در جمع می‌ترسم
+Emotions: fear, sadness
+Scores  : fear=0.92  sadness=0.46  joy=0.14  surprise=0.13  anger=0.10
+
+Text  [eng]: من از اینکه چقدر خوشحالم وقتی غمگین میشم میترسم!
+Emotions: sadness, fear
+Scores  : sadness=0.74  fear=0.61  joy=0.36  surprise=0.24  anger=0.20
+
+Text  [eng]: باورم نمیشه که اینقدر خوب شد!
+Emotions: joy, surprise
+Scores  : joy=0.92  surprise=0.68  fear=0.31  anger=0.12  sadness=0.10
+
+Text  [eng]: خجالت می‌کشم می‌خوام آب بشم برم تو زمین
+Emotions: fear
+Scores  : fear=0.84  anger=0.44  sadness=0.36  surprise=0.22  joy=0.16
+
+Text  [eng]: این بهترین روز زندگیمه!
+Emotions: joy
+Scores  : joy=0.97  surprise=0.30  fear=0.24  anger=0.11  sadness=0.10
+
+Text  [eng]: نمی‌تونم جلوی گریه‌ام رو بگیرم و حتی نمیدونم چرا
+Emotions: sadness, fear
+Scores  : sadness=0.79  fear=0.76  joy=0.17  surprise=0.16  anger=0.06
+
+Text  [eng]: اونقدر عصبانیم میکنی که نمیتونم درست فکر کنم!
+Emotions: anger, fear
+Scores  : anger=0.94  fear=0.51  sadness=0.39  joy=0.20  surprise=0.11
+
+Text  [eng]: ترفیع گرفتم! حرفم نمیاد!
+Emotions: anger, fear
+Scores  : anger=0.68  fear=0.58  surprise=0.47  joy=0.46  sadness=0.40
+
+Text  [eng]: نگرانم که تو این امتحان شکست بخورم
+Emotions: fear, sadness
+Scores  : fear=0.92  sadness=0.51  joy=0.28  surprise=0.14  anger=0.08
+
+Text  [eng]: چطور جرئت میکنی اینجوری باهام حرف بزنی!
+Emotions: anger, surprise, fear
+Scores  : anger=0.61  surprise=0.57  fear=0.53  joy=0.27  sadness=0.12
+
+Text  [eng]: اونقدر دلم برات تنگ شده که درد میکنه
+Emotions: sadness, fear
+Scores  : sadness=0.89  fear=0.52  joy=0.41  anger=0.19  surprise=0.07
+
+Text  [eng]: اوه خدایا باورم نمیشه این داره اتفاق میفته!
+Emotions: surprise, joy, fear
+Scores  : surprise=0.95  joy=0.71  fear=0.69  anger=0.13  sadness=0.07
+
+Text  [eng]: دارم میلرزم، تو عمرم انقدر نترسیده بودم
+Emotions: fear
+Scores  : fear=0.88  surprise=0.37  sadness=0.21  joy=0.19  anger=0.08
+
+Text  [eng]: احساس میکنم داخلم کاملاً خالیه
+Emotions: fear, sadness
+Scores  : fear=0.89  sadness=0.85  surprise=0.15  anger=0.14  joy=0.06
+
+Text  [eng]: الان از افتخار دارم منفجر میشم!
+Emotions: joy
+Scores  : joy=0.89  surprise=0.48  fear=0.32  anger=0.15  sadness=0.06
+
+Text  [eng]: دیگه از همه چی و همه کس خسته شدم
+Emotions: sadness, anger, fear
+Scores  : sadness=0.80  anger=0.66  fear=0.52  joy=0.42  surprise=0.11
+
+Text  [eng]: صبر کن، چییی؟! این کاملاً دیوانه‌واریه!
+Emotions: surprise, fear, anger
+Scores  : surprise=0.91  fear=0.89  anger=0.62  joy=0.15  sadness=0.09
+
+Text  [eng]: احساس میکنم هیچ‌وقت بهتر نمیشه
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.84  anger=0.37  surprise=0.23  joy=0.18
+
+Text  [eng]: الان مثل یه احمق دارم میخندم هاها
+Emotions: joy
+Scores  : joy=0.96  surprise=0.29  fear=0.16  anger=0.13  sadness=0.10
+
+Text  [eng]: ازش متنفرم! از همه چیزش متنفرم!
+Emotions: anger, fear, sadness
+Scores  : anger=0.85  fear=0.59  sadness=0.41  joy=0.31  surprise=0.24
+None

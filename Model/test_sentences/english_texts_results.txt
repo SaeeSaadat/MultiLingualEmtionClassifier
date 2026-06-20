@@ -1,0 +1,201 @@
+
+Text  [eng]: I'm getting really tired of this situation
+Emotions: sadness, anger, fear
+Scores  : sadness=0.85  anger=0.79  fear=0.76  joy=0.17  surprise=0.08
+
+Text  [eng]: I am so happy I want to fly
+Emotions: joy
+Scores  : joy=0.96  surprise=0.18  sadness=0.16  fear=0.14  anger=0.11
+
+Text  [eng]: I hate everything
+Emotions: sadness, anger, fear
+Scores  : sadness=0.90  anger=0.63  fear=0.53  joy=0.37  surprise=0.21
+
+Text  [eng]: I'm dying from sadness and grief
+Emotions: sadness, fear
+Scores  : sadness=0.95  fear=0.66  surprise=0.30  joy=0.24  anger=0.17
+
+Text  [eng]: I love you so much
+Emotions: joy
+Scores  : joy=0.92  sadness=0.21  fear=0.13  anger=0.09  surprise=0.08
+
+Text  [eng]: I love you
+Emotions: joy
+Scores  : joy=0.92  sadness=0.19  fear=0.18  anger=0.12  surprise=0.08
+
+Text  [eng]: My condition is very bad
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.87  anger=0.17  joy=0.09  surprise=0.08
+
+Text  [eng]: I want to beat you up
+Emotions: surprise, joy, anger
+Scores  : surprise=0.73  joy=0.63  anger=0.62  fear=0.40  sadness=0.04
+
+Text  [eng]: I'll beat you so hard you'll bark like a dog
+Emotions: anger, fear
+Scores  : anger=0.93  fear=0.68  sadness=0.37  surprise=0.34  joy=0.18
+
+Text  [eng]: I'm fine, everything is great
+Emotions: joy
+Scores  : joy=0.94  sadness=0.21  fear=0.20  surprise=0.12  anger=0.10
+
+Text  [eng]: I don't want to see anyone, I'm not fine
+Emotions: fear, sadness, anger
+Scores  : fear=0.89  sadness=0.83  anger=0.69  surprise=0.31  joy=0.19
+
+Text  [eng]: What great news! I want to fly!
+Emotions: joy, surprise
+Scores  : joy=0.96  surprise=0.55  fear=0.33  anger=0.16  sadness=0.13
+
+Text  [eng]: I'm so hungry I could eat a horse
+Emotions: joy
+Scores  : joy=0.88  fear=0.40  anger=0.11  sadness=0.11  surprise=0.09
+
+Text  [eng]: I'm jealous of my friend
+Emotions: joy
+Scores  : joy=0.94  anger=0.18  fear=0.13  sadness=0.12  surprise=0.09
+
+Text  [eng]: I'm satisfied with you, well done
+Emotions: joy
+Scores  : joy=0.94  surprise=0.14  anger=0.13  fear=0.13  sadness=0.07
+
+Text  [eng]: May God have mercy on them
+Emotions: sadness, fear
+Scores  : sadness=0.64  joy=0.54  fear=0.48  surprise=0.19  anger=0.14
+
+Text  [eng]: May your grief be your last
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.65  joy=0.38  surprise=0.19  anger=0.12
+
+Text  [eng]: Don't worry, it'll be fine
+Emotions: joy, fear
+Scores  : joy=0.70  fear=0.51  sadness=0.19  surprise=0.15  anger=0.09
+
+Text  [eng]: yeay my new racket is here
+Emotions: joy, surprise
+Scores  : joy=0.84  surprise=0.76  fear=0.23  anger=0.20  sadness=0.06
+
+Text  [eng]: yesss finally it's over
+Emotions: joy, surprise
+Scores  : joy=0.93  surprise=0.56  fear=0.39  sadness=0.36  anger=0.23
+
+Text  [eng]: What kind of a ridiculous task is this? Let me be!
+Emotions: surprise, fear
+Scores  : surprise=0.91  fear=0.76  anger=0.55  joy=0.14  sadness=0.07
+
+Text  [eng]: I am out of ideas
+Emotions: fear, sadness
+Scores  : fear=0.86  sadness=0.81  anger=0.23  joy=0.15  surprise=0.11
+
+Text  [eng]: I'm so happy I might die
+Emotions: joy
+Scores  : joy=0.95  fear=0.17  sadness=0.15  anger=0.13  surprise=0.12
+
+Text  [eng]: I'm so sad I might die
+Emotions: sadness, fear
+Scores  : sadness=0.96  fear=0.76  joy=0.26  surprise=0.20  anger=0.13
+
+Text  [eng]: I'm so hungry I might die
+Emotions: joy, fear
+Scores  : joy=0.83  fear=0.47  anger=0.15  surprise=0.10  sadness=0.09
+
+Text  [eng]: I'm furious at you!
+Emotions: anger
+Scores  : anger=0.92  fear=0.44  surprise=0.35  joy=0.24  sadness=0.23
+
+Text  [eng]: I'm fast! haha
+Emotions: joy
+Scores  : joy=0.88  fear=0.28  surprise=0.27  anger=0.15  sadness=0.05
+
+Text  [eng]: I'm too fast and too serious
+Emotions: fear
+Scores  : fear=0.76  surprise=0.38  anger=0.37  joy=0.36  sadness=0.08
+
+Text  [eng]: I'm making the worst possible example sentences for this dataset!
+Emotions: fear
+Scores  : fear=0.64  joy=0.44  anger=0.41  surprise=0.41  sadness=0.17
+
+Text  [eng]: I'm terrified of heights
+Emotions: fear, sadness
+Scores  : fear=0.86  sadness=0.41  surprise=0.15  joy=0.13  anger=0.12
+
+Text  [eng]: I'm terrified of public speaking
+Emotions: fear, sadness
+Scores  : fear=0.92  sadness=0.43  anger=0.14  surprise=0.12  joy=0.10
+
+Text  [eng]: I'm terrified of how happy I am when I get sad!
+Emotions: joy, sadness, fear
+Scores  : joy=0.90  sadness=0.47  fear=0.45  surprise=0.29  anger=0.17
+
+Text  [eng]: I can't believe how amazing this turned out!
+Emotions: joy
+Scores  : joy=0.95  surprise=0.37  fear=0.17  anger=0.12  sadness=0.07
+
+Text  [eng]: I'm so embarrassed I want to disappear
+Emotions: fear, sadness, anger
+Scores  : fear=0.89  sadness=0.82  anger=0.70  surprise=0.37  joy=0.14
+
+Text  [eng]: This is the best day of my life!
+Emotions: joy
+Scores  : joy=0.95  surprise=0.31  fear=0.26  anger=0.12  sadness=0.09
+
+Text  [eng]: I can't stop crying and I don't even know why
+Emotions: sadness, fear
+Scores  : sadness=0.94  fear=0.69  joy=0.27  surprise=0.24  anger=0.16
+
+Text  [eng]: You make me so angry I can't think straight!
+Emotions: anger, fear
+Scores  : anger=0.90  fear=0.47  sadness=0.38  joy=0.21  surprise=0.09
+
+Text  [eng]: I just got promoted! I'm speechless!
+Emotions: joy, surprise, fear
+Scores  : joy=0.85  surprise=0.83  fear=0.45  anger=0.29  sadness=0.12
+
+Text  [eng]: I'm worried I'm going to fail this exam
+Emotions: fear, sadness
+Scores  : fear=0.96  sadness=0.45  surprise=0.24  joy=0.24  anger=0.11
+
+Text  [eng]: How dare you talk to me like that!
+Emotions: anger, fear
+Scores  : anger=0.82  fear=0.48  surprise=0.44  joy=0.28  sadness=0.13
+
+Text  [eng]: I miss you so much it hurts
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.62  joy=0.35  anger=0.16  surprise=0.13
+
+Text  [eng]: Oh my god I can't believe this is happening!
+Emotions: surprise, joy, fear
+Scores  : surprise=0.93  joy=0.61  fear=0.59  anger=0.25  sadness=0.20
+
+Text  [eng]: I'm shaking, I've never been so scared in my life
+Emotions: fear
+Scores  : fear=0.92  surprise=0.42  sadness=0.30  joy=0.19  anger=0.13
+
+Text  [eng]: I feel completely empty inside
+Emotions: sadness, fear
+Scores  : sadness=0.92  fear=0.74  anger=0.22  joy=0.13  surprise=0.08
+
+Text  [eng]: I'm bursting with pride right now!
+Emotions: joy
+Scores  : joy=0.95  surprise=0.19  fear=0.15  anger=0.13  sadness=0.09
+
+Text  [eng]: I'm so done with everything and everyone
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.51  joy=0.49  anger=0.44  surprise=0.09
+
+Text  [eng]: Wait, WHAT?! This is absolutely insane!
+Emotions: surprise, fear
+Scores  : surprise=0.97  fear=0.75  joy=0.45  anger=0.36  sadness=0.09
+
+Text  [eng]: I feel like nothing will ever get better
+Emotions: sadness, fear
+Scores  : sadness=0.93  fear=0.84  anger=0.29  surprise=0.23  joy=0.21
+
+Text  [eng]: I'm grinning like an idiot right now haha
+Emotions: joy
+Scores  : joy=0.97  surprise=0.22  anger=0.15  fear=0.14  sadness=0.06
+
+Text  [eng]: I hate this! I hate everything about this!
+Emotions: anger, fear
+Scores  : anger=0.91  fear=0.54  surprise=0.40  sadness=0.36  joy=0.29
+None
