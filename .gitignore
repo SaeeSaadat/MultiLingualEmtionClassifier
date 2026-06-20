@@ -1,3 +1,4 @@
 .idea
 .DS_Store
 .__pycache__
+Model/output/xlmr_large_improved_seed42/best_model.pt
