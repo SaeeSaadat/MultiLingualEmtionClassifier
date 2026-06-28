@@ -63,7 +63,7 @@ python predict.py --model_dir output/xlmr_large_improved_seed42 \
 
 ## Evaluation (`evaluate.py`)
 
-Runs the classifier on three parallel test sets (English, Spanish, Persian) and reports per-label and macro F1 against the expected results.
+Runs the classifier on five parallel test sets (English, Spanish, Persian, Hausa, Amharic) and reports per-label and macro F1 against the expected results. English (`eng`) is in-domain; the rest are evaluated **zero-shot** via the fallback head.
 
 ```bash
 python evaluate.py --model_dir output/xlmr_large_improved_seed42
@@ -82,6 +82,12 @@ python evaluate.py --model_dir output/xlmr_large_improved_seed42 --threshold 0.4
 | `English_texts.txt` | 50 English sentences |
 | `spanish_texts.txt` | Same 50 sentences translated to Spanish |
 | `persian_texts.txt` | Same 50 sentences translated to Persian (Farsi) |
+| `hausa_texts.txt` | Same 50 sentences translated to Hausa (low-resource, zero-shot) |
+| `amharic_texts.txt` | Same 50 sentences translated to Amharic (low-resource, zero-shot) |
 | `expected_results.txt` | Gold-standard emotion labels, one line per sentence, space-separated |
 
-All three language files share the same line order, so line *N* in each file is the same sentence and corresponds to line *N* in `expected_results.txt`.
+All language files share the same line order, so line *N* in each file is the same sentence and corresponds to line *N* in `expected_results.txt`.
+
+> **Note:** The Hausa and Amharic sentences are AI-assisted translations of the English set, added for low-resource zero-shot testing. They should be spot-checked by a fluent speaker before the numbers are treated as final.
+
+To add another language, drop a parallel `*_texts.txt` file (same 50-line order) into `test_sentences/` and add one entry to the `LANGUAGE_FILES` list in `evaluate.py`.

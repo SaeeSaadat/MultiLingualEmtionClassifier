@@ -23,6 +23,8 @@ LANGUAGE_FILES = [
     ("eng", "English_texts.txt",  "English"),
     ("spa", "spanish_texts.txt",  "Spanish"),
     ("fas", "persian_texts.txt",  "Persian"),
+    ("hau", "hausa_texts.txt",    "Hausa"),
+    ("amh", "amharic_texts.txt",  "Amharic"),
 ]
 EXPECTED_FILE = os.path.join(TEST_DIR, "expected_results.txt")
 

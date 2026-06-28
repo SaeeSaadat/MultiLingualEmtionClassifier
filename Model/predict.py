@@ -211,8 +211,10 @@ def main():
 
     if texts:
         res = predictor.predict(texts, lang=args.lang, threshold=args.threshold)
-        print(json.dumps(res, indent=2, ensure_ascii=False) if args.json
-              else "" or _print_human(res))
+        if args.json:
+            print(json.dumps(res, indent=2, ensure_ascii=False))
+        else:
+            _print_human(res)
         return
 
     # Interactive mode

@@ -1,0 +1,200 @@
+
+Text  [hau]: Ina gajiya da wannan yanayi sosai
+Emotions: disgust, fear, sadness
+Scores  : disgust=0.72  fear=0.58  surprise=0.53  sadness=0.51  anger=0.44  joy=0.38
+
+Text  [hau]: Ina farin ciki sosai har ina son in tashi sama
+Emotions: disgust, fear, surprise, sadness
+Scores  : disgust=0.74  fear=0.65  surprise=0.63  sadness=0.60  joy=0.49  anger=0.42
+
+Text  [hau]: Ina ƙin komai
+Emotions: surprise, disgust, sadness, fear
+Scores  : surprise=0.61  disgust=0.58  sadness=0.57  fear=0.49  anger=0.48  joy=0.42
+
+Text  [hau]: Ina mutuwa da baƙin ciki da nadama
+Emotions: sadness, surprise, anger, disgust, fear
+Scores  : sadness=0.72  surprise=0.65  anger=0.63  disgust=0.55  joy=0.51  fear=0.46
+
+Text  [hau]: Ina ƙaunarka sosai
+Emotions: surprise, fear, disgust, anger, sadness
+Scores  : surprise=0.62  fear=0.62  disgust=0.57  anger=0.57  joy=0.53  sadness=0.47
+
+Text  [hau]: Ina ƙaunarka
+Emotions: disgust, anger, fear, surprise, sadness
+Scores  : disgust=0.61  anger=0.58  fear=0.58  surprise=0.58  sadness=0.53  joy=0.46
+
+Text  [hau]: Halin da nake ciki ya yi muni sosai
+Emotions: surprise, sadness, disgust, fear
+Scores  : surprise=0.73  sadness=0.61  disgust=0.59  anger=0.56  fear=0.55  joy=0.54
+
+Text  [hau]: Ina son in doke ka
+Emotions: anger, surprise, disgust, sadness, fear
+Scores  : anger=0.59  surprise=0.59  disgust=0.58  sadness=0.52  joy=0.48  fear=0.48
+
+Text  [hau]: Zan doke ka sosai har ka yi haushi kamar kare
+Emotions: surprise, anger, disgust, sadness, fear
+Scores  : surprise=0.65  anger=0.57  disgust=0.55  joy=0.52  sadness=0.51  fear=0.44
+
+Text  [hau]: Ina lafiya, komai yana da kyau
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.71  sadness=0.67  surprise=0.53  fear=0.52  anger=0.49  joy=0.47
+
+Text  [hau]: Ba na son ganin kowa, ba ni da lafiya
+Emotions: surprise, fear, sadness, joy
+Scores  : surprise=0.64  fear=0.62  sadness=0.61  joy=0.60  disgust=0.49  anger=0.47
+
+Text  [hau]: Wane labari mai daɗi! Ina son in tashi sama!
+Emotions: disgust, fear, sadness, surprise
+Scores  : disgust=0.70  fear=0.62  sadness=0.62  surprise=0.55  anger=0.51  joy=0.48
+
+Text  [hau]: Ina jin yunwa sosai har zan iya cin doki
+Emotions: disgust, surprise, sadness, fear
+Scores  : disgust=0.64  surprise=0.60  sadness=0.56  fear=0.53  joy=0.49  anger=0.47
+
+Text  [hau]: Ina kishin abokina
+Emotions: joy, anger, disgust, sadness, fear
+Scores  : joy=0.69  anger=0.64  disgust=0.63  sadness=0.54  fear=0.51  surprise=0.51
+
+Text  [hau]: Na gamsu da kai, madalla
+Emotions: surprise, sadness, fear
+Scores  : surprise=0.63  sadness=0.58  fear=0.53  disgust=0.52  anger=0.49  joy=0.48
+
+Text  [hau]: Allah ya jiƙan su
+Emotions: anger, sadness, disgust, surprise
+Scores  : anger=0.65  sadness=0.60  disgust=0.57  surprise=0.56  joy=0.51  fear=0.38
+
+Text  [hau]: Allah ya sa wannan baƙin cikin ya zama na ƙarshe
+Emotions: surprise, anger, sadness, disgust, fear
+Scores  : surprise=0.80  anger=0.71  sadness=0.60  disgust=0.59  fear=0.46  joy=0.45
+
+Text  [hau]: Kada ka damu, zai yi kyau
+Emotions: sadness, surprise, fear
+Scores  : sadness=0.66  surprise=0.61  fear=0.57  disgust=0.53  anger=0.52  joy=0.45
+
+Text  [hau]: Yeay sabuwar ƙwallona ta zo
+Emotions: fear, sadness
+Scores  : fear=0.64  anger=0.54  disgust=0.51  surprise=0.50  sadness=0.50  joy=0.43
+
+Text  [hau]: I sannan a ƙarshe ya ƙare
+Emotions: surprise, fear, sadness
+Scores  : surprise=0.64  fear=0.60  sadness=0.57  anger=0.52  disgust=0.52  joy=0.43
+
+Text  [hau]: Wane irin aiki ne na wauta haka? Ka bar ni!
+Emotions: sadness, fear
+Scores  : sadness=0.70  disgust=0.53  fear=0.51  anger=0.50  surprise=0.48  joy=0.46
+
+Text  [hau]: Na rasa wani tunani
+Emotions: sadness, disgust, fear
+Scores  : sadness=0.66  disgust=0.57  fear=0.53  surprise=0.49  anger=0.42  joy=0.42
+
+Text  [hau]: Ina farin ciki sosai har zan iya mutuwa
+Emotions: surprise, sadness, disgust, fear
+Scores  : surprise=0.68  sadness=0.66  disgust=0.58  joy=0.58  anger=0.49  fear=0.46
+
+Text  [hau]: Ina baƙin ciki sosai har zan iya mutuwa
+Emotions: surprise, sadness, anger, disgust, fear
+Scores  : surprise=0.72  sadness=0.72  anger=0.70  disgust=0.56  joy=0.52  fear=0.46
+
+Text  [hau]: Ina jin yunwa sosai har zan iya mutuwa
+Emotions: surprise, disgust, sadness, fear
+Scores  : surprise=0.73  disgust=0.70  sadness=0.55  fear=0.55  joy=0.46  anger=0.42
+
+Text  [hau]: Ina fushi da kai sosai!
+Emotions: sadness, disgust, fear
+Scores  : sadness=0.68  disgust=0.67  fear=0.48  joy=0.42  surprise=0.42  anger=0.39
+
+Text  [hau]: Ina da sauri! haha
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.56  sadness=0.55  fear=0.51  joy=0.45  anger=0.41  surprise=0.40
+
+Text  [hau]: Ina da sauri sosai kuma ina da muhimmanci sosai
+Emotions: sadness, surprise, disgust, fear
+Scores  : sadness=0.76  surprise=0.70  disgust=0.66  joy=0.51  fear=0.50  anger=0.41
+
+Text  [hau]: Ina yin mafi munin jimlolin misali don wannan bayanan!
+Emotions: disgust, surprise, joy, fear, sadness
+Scores  : disgust=0.71  surprise=0.66  joy=0.60  fear=0.54  anger=0.53  sadness=0.45
+
+Text  [hau]: Ina tsoron tsayi sosai
+Emotions: surprise, fear, sadness
+Scores  : surprise=0.67  joy=0.56  fear=0.53  anger=0.52  sadness=0.47  disgust=0.45
+
+Text  [hau]: Ina tsoron yin magana a gaban jama'a
+Emotions: fear, surprise, anger, sadness, disgust
+Scores  : fear=0.69  surprise=0.67  anger=0.62  sadness=0.55  disgust=0.54  joy=0.44
+
+Text  [hau]: Ina tsoron yadda nake farin ciki sa'ad da na yi baƙin ciki!
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.69  sadness=0.63  fear=0.60  surprise=0.39  joy=0.36  anger=0.34
+
+Text  [hau]: Ban yi imani da yadda wannan ya zama mai ban mamaki ba!
+Emotions: sadness, fear
+Scores  : sadness=0.60  anger=0.55  fear=0.46  surprise=0.44  disgust=0.43  joy=0.37
+
+Text  [hau]: Na ji kunya sosai har ina son in ɓace
+Emotions: fear, surprise, sadness
+Scores  : fear=0.65  surprise=0.64  disgust=0.53  anger=0.51  sadness=0.49  joy=0.42
+
+Text  [hau]: Wannan ita ce rana mafi kyau a rayuwata!
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.77  sadness=0.69  fear=0.51  anger=0.49  surprise=0.44  joy=0.39
+
+Text  [hau]: Ba zan iya daina kuka ba kuma ban ma san dalili ba
+Emotions: sadness, anger
+Scores  : sadness=0.65  anger=0.59  surprise=0.51  disgust=0.47  joy=0.43  fear=0.36
+
+Text  [hau]: Kana sa ni fushi sosai har ba zan iya tunani sosai ba!
+Emotions: joy, disgust, fear, sadness
+Scores  : joy=0.59  disgust=0.58  surprise=0.53  fear=0.53  sadness=0.50  anger=0.38
+
+Text  [hau]: An ɗaga ni girma! Na rasa abin da zan ce!
+Emotions: fear, surprise, anger, sadness
+Scores  : fear=0.66  surprise=0.65  anger=0.59  sadness=0.56  disgust=0.49  joy=0.42
+
+Text  [hau]: Ina damuwa zan faɗi a wannan jarrabawa
+Emotions: surprise, sadness, anger, fear
+Scores  : surprise=0.77  sadness=0.61  anger=0.59  fear=0.58  disgust=0.48  joy=0.44
+
+Text  [hau]: Yaya kake da ƙarfin yin magana da ni haka!
+Emotions: fear, disgust, sadness
+Scores  : fear=0.61  disgust=0.57  anger=0.54  sadness=0.51  surprise=0.41  joy=0.37
+
+Text  [hau]: Ina marmarinka sosai har yana ciwo
+Emotions: joy, disgust, fear, sadness
+Scores  : joy=0.61  disgust=0.61  surprise=0.52  fear=0.51  sadness=0.49  anger=0.44
+
+Text  [hau]: Ya Allah ban yi imani wannan yana faruwa ba!
+Emotions: sadness, anger, disgust
+Scores  : sadness=0.73  anger=0.60  disgust=0.56  surprise=0.46  joy=0.45  fear=0.41
+
+Text  [hau]: Ina rawar jiki, ban taɓa jin tsoro haka a rayuwata ba
+Emotions: surprise, anger, sadness, fear
+Scores  : surprise=0.69  anger=0.67  sadness=0.54  fear=0.53  disgust=0.51  joy=0.46
+
+Text  [hau]: Ina jin komai babu komai a ciki na
+Emotions: sadness, disgust
+Scores  : sadness=0.58  disgust=0.55  surprise=0.48  joy=0.43  fear=0.41  anger=0.34
+
+Text  [hau]: Ina cike da alfahari yanzu!
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.68  sadness=0.67  fear=0.53  anger=0.51  surprise=0.50  joy=0.39
+
+Text  [hau]: Na gaji da komai da kowa
+Emotions: surprise, anger, sadness, fear
+Scores  : surprise=0.64  anger=0.61  sadness=0.50  disgust=0.49  joy=0.47  fear=0.46
+
+Text  [hau]: Jira, MENENE?! Wannan hauka ne gaba ɗaya!
+Emotions: sadness, anger, fear
+Scores  : sadness=0.65  anger=0.58  fear=0.56  joy=0.43  surprise=0.42  disgust=0.38
+
+Text  [hau]: Ina jin kamar babu abin da zai taɓa samun sauƙi
+Emotions: disgust, surprise, anger, sadness, fear
+Scores  : disgust=0.66  surprise=0.65  anger=0.62  sadness=0.62  fear=0.45  joy=0.42
+
+Text  [hau]: Ina murmushi kamar wawa yanzu haha
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.63  sadness=0.61  fear=0.53  anger=0.45  joy=0.38  surprise=0.37
+
+Text  [hau]: Ina ƙin wannan! Ina ƙin komai game da wannan!
+Emotions: disgust, fear, sadness
+Scores  : disgust=0.73  fear=0.68  sadness=0.63  surprise=0.47  anger=0.42  joy=0.40

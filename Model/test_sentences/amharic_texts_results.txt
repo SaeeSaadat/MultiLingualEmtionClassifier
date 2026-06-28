@@ -1,0 +1,200 @@
+
+Text  [amh]: በዚህ ሁኔታ በጣም ደክሞኛል
+Emotions: surprise, sadness, joy, disgust, fear
+Scores  : surprise=0.75  sadness=0.65  joy=0.59  disgust=0.56  anger=0.53  fear=0.45
+
+Text  [amh]: በጣም ደስ ብሎኛል መብረር እፈልጋለሁ
+Emotions: sadness, disgust, fear
+Scores  : sadness=0.72  disgust=0.66  surprise=0.54  fear=0.52  joy=0.44  anger=0.43
+
+Text  [amh]: ሁሉንም ነገር እጠላለሁ
+Emotions: sadness, disgust, surprise
+Scores  : sadness=0.67  disgust=0.65  surprise=0.55  joy=0.46  anger=0.45  fear=0.42
+
+Text  [amh]: በሐዘንና በጭንቀት እየሞትኩ ነው
+Emotions: surprise, anger, joy, sadness
+Scores  : surprise=0.81  anger=0.68  joy=0.64  sadness=0.55  fear=0.39  disgust=0.38
+
+Text  [amh]: በጣም እወድሃለሁ
+Emotions: sadness, disgust
+Scores  : sadness=0.68  disgust=0.64  surprise=0.47  joy=0.44  fear=0.40  anger=0.38
+
+Text  [amh]: እወድሃለሁ
+Emotions: disgust, sadness
+Scores  : disgust=0.68  sadness=0.68  joy=0.49  surprise=0.48  anger=0.42  fear=0.36
+
+Text  [amh]: ሁኔታዬ በጣም መጥፎ ነው
+Emotions: surprise, sadness, joy, anger, fear
+Scores  : surprise=0.83  sadness=0.74  joy=0.70  anger=0.64  fear=0.56  disgust=0.52
+
+Text  [amh]: ልደበድብህ እፈልጋለሁ
+Emotions: surprise, disgust, fear, sadness
+Scores  : surprise=0.62  disgust=0.61  fear=0.55  sadness=0.54  joy=0.52  anger=0.45
+
+Text  [amh]: እንደ ውሻ እስክትጮህ ድረስ በጣም እደበድብሃለሁ
+Emotions: surprise, sadness, disgust
+Scores  : surprise=0.78  sadness=0.60  disgust=0.60  joy=0.55  anger=0.52  fear=0.43
+
+Text  [amh]: ደህና ነኝ፣ ሁሉም ነገር በጣም ጥሩ ነው
+Emotions: sadness, disgust, surprise, fear
+Scores  : sadness=0.74  disgust=0.68  surprise=0.55  joy=0.46  fear=0.45  anger=0.41
+
+Text  [amh]: ማንንም ማየት አልፈልግም፣ ደህና አይደለሁም
+Emotions: surprise, anger, sadness, fear
+Scores  : surprise=0.68  anger=0.59  joy=0.57  sadness=0.56  disgust=0.53  fear=0.52
+
+Text  [amh]: እንዴት ያለ ድንቅ ዜና ነው! መብረር እፈልጋለሁ!
+Emotions: disgust, sadness, anger, surprise, fear
+Scores  : disgust=0.69  sadness=0.65  anger=0.57  surprise=0.57  fear=0.54  joy=0.46
+
+Text  [amh]: በጣም ተርቦኛል ፈረስ መብላት እችላለሁ
+Emotions: surprise, fear, sadness, disgust
+Scores  : surprise=0.78  fear=0.58  sadness=0.57  disgust=0.57  joy=0.53  anger=0.51
+
+Text  [amh]: በጓደኛዬ እቀናለሁ
+Emotions: disgust, fear, surprise, anger, sadness
+Scores  : disgust=0.65  fear=0.63  surprise=0.62  anger=0.57  joy=0.57  sadness=0.53
+
+Text  [amh]: በአንተ ረክቻለሁ፣ ጎበዝ
+Emotions: disgust, fear, sadness, surprise
+Scores  : disgust=0.70  fear=0.60  sadness=0.58  surprise=0.54  joy=0.46  anger=0.45
+
+Text  [amh]: እግዚአብሔር ይማራቸው
+Emotions: surprise, disgust, anger, sadness, joy, fear
+Scores  : surprise=0.68  disgust=0.65  anger=0.63  sadness=0.62  joy=0.59  fear=0.51
+
+Text  [amh]: ሐዘንህ የመጨረሻው ይሁን
+Emotions: anger, surprise, joy, fear, disgust, sadness
+Scores  : anger=0.67  surprise=0.66  joy=0.63  fear=0.60  disgust=0.56  sadness=0.52
+
+Text  [amh]: አትጨነቅ፣ ሁሉም ነገር ደህና ይሆናል
+Emotions: sadness, disgust, fear, surprise
+Scores  : sadness=0.66  disgust=0.65  fear=0.64  surprise=0.57  anger=0.53  joy=0.41
+
+Text  [amh]: ዬይ አዲሱ ራኬቴ መጥቷል
+Emotions: disgust, fear, sadness
+Scores  : disgust=0.65  fear=0.65  sadness=0.61  anger=0.51  surprise=0.42  joy=0.27
+
+Text  [amh]: አዎ በመጨረሻ አለቀ
+Emotions: surprise, sadness, disgust
+Scores  : surprise=0.57  sadness=0.55  anger=0.55  disgust=0.54  joy=0.53  fear=0.43
+
+Text  [amh]: ይህ ምን ዓይነት አስቂኝ ሥራ ነው? ተወኝ!
+Emotions: anger, sadness
+Scores  : anger=0.59  sadness=0.57  surprise=0.53  joy=0.49  disgust=0.46  fear=0.40
+
+Text  [amh]: ሐሳብ አልቆብኛል
+Emotions: surprise, joy, sadness, fear, disgust
+Scores  : surprise=0.76  joy=0.70  sadness=0.65  fear=0.60  disgust=0.56  anger=0.51
+
+Text  [amh]: በጣም ደስ ብሎኛል ልሞት እችላለሁ
+Emotions: disgust, sadness, surprise
+Scores  : disgust=0.63  sadness=0.59  surprise=0.54  joy=0.50  fear=0.40  anger=0.38
+
+Text  [amh]: በጣም አዝኛለሁ ልሞት እችላለሁ
+Emotions: surprise, sadness, anger, fear
+Scores  : surprise=0.77  sadness=0.64  anger=0.58  fear=0.57  disgust=0.50  joy=0.48
+
+Text  [amh]: በጣም ተርቦኛል ልሞት እችላለሁ
+Emotions: surprise, sadness, joy, fear
+Scores  : surprise=0.78  sadness=0.59  joy=0.58  disgust=0.52  fear=0.51  anger=0.47
+
+Text  [amh]: በአንተ በጣም ተናድጃለሁ!
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.72  sadness=0.62  fear=0.53  surprise=0.47  anger=0.44  joy=0.38
+
+Text  [amh]: ፈጣን ነኝ! ሃሃ
+Emotions: sadness, disgust, fear
+Scores  : sadness=0.77  disgust=0.63  fear=0.51  anger=0.48  surprise=0.41  joy=0.32
+
+Text  [amh]: በጣም ፈጣንና በጣም ቁምነገረኛ ነኝ
+Emotions: disgust, surprise, fear, sadness
+Scores  : disgust=0.58  surprise=0.57  fear=0.57  joy=0.53  sadness=0.52  anger=0.41
+
+Text  [amh]: ለዚህ ዳታ በጣም መጥፎ የምሳሌ ዓረፍተ ነገሮችን እየሠራሁ ነው!
+Emotions: surprise, joy, disgust, fear, sadness
+Scores  : surprise=0.72  joy=0.65  disgust=0.59  anger=0.54  fear=0.53  sadness=0.50
+
+Text  [amh]: ከፍታን በጣም እፈራለሁ
+Emotions: disgust, sadness
+Scores  : disgust=0.71  sadness=0.69  joy=0.47  anger=0.45  fear=0.43  surprise=0.40
+
+Text  [amh]: በሕዝብ ፊት መናገርን በጣም እፈራለሁ
+Emotions: sadness, disgust, fear
+Scores  : sadness=0.73  disgust=0.65  fear=0.53  joy=0.50  surprise=0.49  anger=0.39
+
+Text  [amh]: ሳዝን ምን ያህል ደስተኛ እንደምሆን በጣም እፈራለሁ!
+Emotions: disgust, sadness
+Scores  : disgust=0.69  sadness=0.66  surprise=0.47  fear=0.43  joy=0.42  anger=0.35
+
+Text  [amh]: ይህ እንዴት እንደዚህ አስደናቂ እንደ ሆነ ማመን አልችልም!
+Emotions: sadness, fear
+Scores  : sadness=0.66  anger=0.53  disgust=0.50  surprise=0.49  joy=0.47  fear=0.47
+
+Text  [amh]: በጣም አፍሬያለሁ መጥፋት እፈልጋለሁ
+Emotions: surprise, anger, joy, disgust, sadness, fear
+Scores  : surprise=0.67  anger=0.62  joy=0.62  disgust=0.60  sadness=0.60  fear=0.45
+
+Text  [amh]: ይህ በሕይወቴ ውስጥ ምርጡ ቀን ነው!
+Emotions: disgust, sadness, surprise, fear
+Scores  : disgust=0.73  sadness=0.71  surprise=0.59  fear=0.56  anger=0.50  joy=0.41
+
+Text  [amh]: ማልቀስ ማቆም አልችልም ለምን እንደ ሆነ እንኳ አላውቅም
+Emotions: sadness, surprise, fear
+Scores  : sadness=0.73  surprise=0.64  joy=0.55  anger=0.48  fear=0.48  disgust=0.47
+
+Text  [amh]: በጣም ታናድደኛለህ በቅጡ ማሰብ አልችልም!
+Emotions: surprise, sadness, disgust, fear
+Scores  : surprise=0.80  sadness=0.62  disgust=0.57  joy=0.56  anger=0.54  fear=0.51
+
+Text  [amh]: አሁን ሹመት አገኘሁ! አፌ ተዘጋ!
+Emotions: sadness, disgust, surprise, fear
+Scores  : sadness=0.74  disgust=0.62  surprise=0.61  fear=0.57  anger=0.49  joy=0.37
+
+Text  [amh]: ይህን ፈተና እወድቃለሁ ብዬ እጨነቃለሁ
+Emotions: surprise, sadness, disgust, fear
+Scores  : surprise=0.71  sadness=0.69  disgust=0.69  anger=0.55  fear=0.54  joy=0.53
+
+Text  [amh]: እንዴት ደፍረህ እንዲህ ታናግረኛለህ!
+Emotions: sadness, disgust, fear
+Scores  : sadness=0.62  disgust=0.55  anger=0.54  fear=0.52  surprise=0.47  joy=0.40
+
+Text  [amh]: በጣም ናፍቆሃል እስኪያመኝ ድረስ
+Emotions: surprise, sadness, joy, fear
+Scores  : surprise=0.77  sadness=0.66  joy=0.59  disgust=0.51  anger=0.46  fear=0.46
+
+Text  [amh]: አምላኬ ሆይ ይህ እየሆነ መሆኑን ማመን አልችልም!
+Emotions: sadness
+Scores  : sadness=0.65  joy=0.57  anger=0.52  surprise=0.51  fear=0.43  disgust=0.37
+
+Text  [amh]: እየተንቀጠቀጥኩ ነው፣ በሕይወቴ እንዲህ ፈርቼ አላውቅም
+Emotions: surprise, disgust, fear, sadness
+Scores  : surprise=0.70  disgust=0.67  fear=0.58  sadness=0.57  joy=0.54  anger=0.46
+
+Text  [amh]: በውስጤ ፍጹም ባዶ ሆኖ ይሰማኛል
+Emotions: surprise, sadness, fear
+Scores  : surprise=0.70  sadness=0.62  fear=0.59  joy=0.56  anger=0.56  disgust=0.48
+
+Text  [amh]: አሁን በኩራት ተሞልቻለሁ!
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.78  sadness=0.70  surprise=0.53  anger=0.52  fear=0.46  joy=0.44
+
+Text  [amh]: በሁሉም ነገርና በሁሉም ሰው ሰልችቶኛል
+Emotions: disgust, sadness, surprise, anger, joy, fear
+Scores  : disgust=0.72  sadness=0.70  surprise=0.68  anger=0.59  joy=0.58  fear=0.55
+
+Text  [amh]: ቆይ፣ ምን?! ይህ ፍጹም እብደት ነው!
+Emotions: anger, surprise, sadness, fear
+Scores  : anger=0.78  surprise=0.67  sadness=0.61  joy=0.54  fear=0.48  disgust=0.37
+
+Text  [amh]: ምንም ነገር ፈጽሞ አይሻሻልም የሚል ስሜት ይሰማኛል
+Emotions: surprise, sadness, joy, anger, fear
+Scores  : surprise=0.79  sadness=0.73  joy=0.72  anger=0.65  fear=0.47  disgust=0.46
+
+Text  [amh]: አሁን እንደ ሞኝ እየሳቅሁ ነው ሃሃ
+Emotions: surprise, sadness, fear, disgust
+Scores  : surprise=0.75  sadness=0.72  fear=0.67  disgust=0.63  anger=0.52  joy=0.48
+
+Text  [amh]: ይህን እጠላለሁ! ስለዚህ ነገር ሁሉንም እጠላለሁ!
+Emotions: disgust, sadness, fear
+Scores  : disgust=0.69  sadness=0.62  surprise=0.50  fear=0.46  joy=0.44  anger=0.42

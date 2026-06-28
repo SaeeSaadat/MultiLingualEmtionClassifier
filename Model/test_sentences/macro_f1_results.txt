@@ -1,3 +1,10 @@
+/Users/pranavyadav/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[warn] 'spa' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
+[warn] 'fas' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
+[warn] 'hau' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
+[warn] 'amh' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
+Model : output/xlmr_large_improved_seed42
 Labels: ['anger', 'fear', 'joy', 'sadness', 'surprise']
 Sentences per language: 50
 
@@ -10,7 +17,6 @@ Per-label F1:
   sadness   : 0.7879
   surprise  : 0.4444
 
-[warn] 'spa' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
 === Spanish (spa) ===
 Macro F1 : 0.2985
 Per-label F1:
@@ -20,7 +26,6 @@ Per-label F1:
   sadness   : 0.4375
   surprise  : 0.1111
 
-[warn] 'fas' not in trained languages ['eng', 'deu', 'arq']; using the fallback head.
 === Persian (fas) ===
 Macro F1 : 0.3019
 Per-label F1:
@@ -30,7 +35,27 @@ Per-label F1:
   sadness   : 0.4375
   surprise  : 0.2273
 
+=== Hausa (hau) ===
+Macro F1 : 0.2560
+Per-label F1:
+  anger     : 0.2581
+  fear      : 0.3793
+  joy       : 0.0000
+  sadness   : 0.4375
+  surprise  : 0.2051
+
+=== Amharic (amh) ===
+Macro F1 : 0.2555
+Per-label F1:
+  anger     : 0.2308
+  fear      : 0.4314
+  joy       : 0.0000
+  sadness   : 0.4375
+  surprise  : 0.1778
+
 === Summary ===
   English   : 0.6588
   Spanish   : 0.2985
   Persian   : 0.3019
+  Hausa     : 0.2560
+  Amharic   : 0.2555
